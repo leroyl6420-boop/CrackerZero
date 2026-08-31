@@ -29,3 +29,20 @@ Wiring diagram for the Pi:
 | **35** | GPIO 19 | Available | **36** | GPIO 16 | Available |
 | **37** | GPIO 26 | Available | **38** | GPIO 20 | Available |
 | **39** | GND | Available | **40** | GPIO 21 | Available |
+
+A 22 AWG wire will be soldered onto the 5v wires from the TP4056 module. The GND will be soldered to one of the empty ground pins. I really wish they'd make the screen use only one 5V pin :P
+
+Wiring diagram for the CH32X035 devboard keyboard:
+
+| LEFT SIDE | USE | RIGHT SIDE | USE |
+|---|---|---|---|
+| 5V | USB power | GND | Ground |
+| GND | Ground | PC19 | Unused |
+| 3V3 | KY-023 VCC | PB12 | Button 1 |
+| PA0 | Joystick X | PC18 | Unused |
+| PA1 | Joystick Y | PB11 | Button 2 |
+| PA2 | Joystick Click | PB3 | Button 3 |
+| PA3 | Layer LED | PB1 | Button 4 |
+| PA4 | Spare | PB0 | Button 5 |
+| PA5 | Spare | PA7 | Button 6 |
+| — | — | PA6 | Spare |
