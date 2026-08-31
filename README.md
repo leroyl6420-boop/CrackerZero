@@ -51,4 +51,22 @@ I chose not to CAD a case for the keyboard to get the see the art from Cyao on t
 
 # CAD
 
+There wasn't much CADing to do for the Cracker Zero! I just make sure that I knew where to put all the parts, here:
 
+![An image of the caseless Cracker Zero](Images/CZ4.png)
+
+And I made a case for the Pi and the screen, here:
+
+![The Cracker Zero in its case](Images/CZ4.png)
+
+Of course, I had to CAD the cute little keyboard
+
+![An image of the Cracker Zero's custom keyboard](Images/CZ3.png)
+
+# Assembly
+
+Assembling the Cracker Zero won't be very hard. Just find two 13-pin-long pin headers and solder them onto the first 13 pin slots of both rows on the Pi 0. Solder the Lipo's spliced wires onto the protection module's BAT+ and BAT- pads, and solder the protection module's Input/Output +/- pads to the TP4056 module's BAT+/- pins. Wire the TP4056's OUT+ to one of the Pi's 5V pins (using the latching button), and wire the OUT- to any of the Pi's GNDs. The Cracker Zero charges using micro USB (I know I know diabolical). Solder the keyboard according to the wiring diagram, and connect it to the Pi's data micro USB port using a USB-C to micro USB power/data cable. 
+
+# AI Use
+
+AI was used to find good parts/deals. 
