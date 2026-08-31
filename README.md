@@ -57,7 +57,7 @@ There wasn't much CADing to do for the Cracker Zero! I just make sure that I kne
 
 And I made a case for the Pi and the screen, here:
 
-![The Cracker Zero in its case](Images/CZ4.png)
+![The Cracker Zero in its case](Images/CZ5.png)
 
 Of course, I had to CAD the cute little keyboard
 
