@@ -3,6 +3,10 @@ A portable, Raspberry Pi 0-powered cyberdeck! My first cyberdeck too (: it's thi
 
 The Cracker Zero will be my first cyberdeck! The reason as to why I chose a Pi 0 instead of a Pi 4 or 5 is because I wanted extra space and budget to make a custom keyboard. It'll be nothing fancy, just a couple of push buttons and a joystick on a perfboard, but I can say that it is my own (: I'm planning on running some kind of Linux.
 
+# Wiring Diagram
+
+Wiring diagram for the Pi:
+
 | Left row | Function | Use | Right row | Function | Use |
 |---:|---|---|---:|---|---|
 | **1** | 3.3 V | SCREEN | **2** | 5 V | SCREEN / same 5 V rail as power input |
