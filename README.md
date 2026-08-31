@@ -46,3 +46,9 @@ Wiring diagram for the CH32X035 devboard keyboard:
 | PA4 | Spare | PB0 | Button 5 |
 | PA5 | Spare | PA7 | Button 6 |
 | — | — | PA6 | Spare |
+
+I chose not to CAD a case for the keyboard to get the see the art from Cyao on the CH32X035 :D
+
+# CAD
+
+
