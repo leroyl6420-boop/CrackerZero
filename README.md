@@ -57,11 +57,11 @@ There wasn't much CADing to do for the Cracker Zero! I just make sure that I kne
 
 And I made a case for the Pi and the screen, here:
 
-![The Cracker Zero in its case](Images/CZ5.png)
+![The Cracker Zero in its case](Images/CZ3.png)
 
 Of course, I had to CAD the cute little keyboard
 
-![An image of the Cracker Zero's custom keyboard](Images/CZ3.png)
+![An image of the Cracker Zero's custom keyboard](Images/CZ5.png)
 
 # Assembly
 
